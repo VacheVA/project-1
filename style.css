@@ -1,0 +1,59 @@
+body{
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.mej{
+	
+   border: none;
+   outline: none;
+   background: transparent;
+	border-bottom: 2px solid black;
+	color: black;
+	height: 30px;
+	font-size: 18px;
+margin-bottom: 4%;
+font-family: 'Times New Roman', Times, serif, cursive;
+}
+.click{
+	font-family: 'Times New Roman', Times, serif, cursive;
+	margin-bottom: 1%;
+	border: none;
+	outline: none;
+	height: 40px;
+	border-radius: 25px;
+	background-color: transparent;
+	border: 2px solid rgb(0, 68, 255);
+	color: rgb(0, 0, 0);
+	font-size: 20px;
+	transition: .5s;
+}
+.click:hover{
+	cursor: pointer;
+	background-color: rgb(15, 0, 232);
+	color: black;
+}
+
+.guyn{
+	font-family: 'Times New Roman', Times, serif, cursive;
+    border: none;
+	outline: none;
+	height: 40px;
+	border-radius: 25px;
+	background-color: transparent;
+	border: 2px solid aqua;
+	color: rgb(0, 0, 0);
+	font-size: 20px;
+	transition: .5s;
+}
+.guyn:hover{
+	cursor: pointer;
+	background-color: aquamarine;
+	color: black;
+}
+.text{
+	width: 100%;
+	height: 80px;
+	resize: none;
+	padding: 8px;
+	box-sizing: border-box;
+}
