@@ -18,6 +18,7 @@ function myClick()
         sentence = val.split('.')
   
 
+
     let sentence_num = sentence.length
 
     for(let sen_ind = 0; sen_ind < sentence_num - 1; sen_ind ++ )
