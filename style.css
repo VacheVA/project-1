@@ -2,7 +2,7 @@ body{
 	font-family: 'Times New Roman', Times, serif;
 }
 
-.mej{
+.on{
 	
    border: none;
    outline: none;
@@ -33,7 +33,7 @@ font-family: 'Times New Roman', Times, serif, cursive;
 	color: black;
 }
 
-.guyn{
+.color{
 	font-family: 'Times New Roman', Times, serif, cursive;
     border: none;
 	outline: none;
@@ -45,7 +45,7 @@ font-family: 'Times New Roman', Times, serif, cursive;
 	font-size: 20px;
 	transition: .5s;
 }
-.guyn:hover{
+.color:hover{
 	cursor: pointer;
 	background-color: aquamarine;
 	color: black;
